@@ -1,0 +1,7 @@
+dist-*
+tmp
+.vscode/
+
+cabal.project.local*
+dist-newstyle
+dist
